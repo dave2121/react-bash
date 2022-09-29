@@ -11,4 +11,7 @@ npx create-react-app digital-ocean-app <<-EOF
 yes
 EOF
 cd digital-ocean-app
+#trigger the app to start
 npm start
+
+
